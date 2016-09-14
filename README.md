@@ -428,11 +428,13 @@ Demo 地址：https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyVi
 项目地址：https://github.com/JakeWharton/Android-DirectionalViewPager  
 Demo 地址：https://market.android.com/details?id=com.directionalviewpager.sample  
 
-1. FancyCoverFlow  
+1. 
+2. 
+3.   
 支持 Item 切换动画效果的类似 Gallery View  
 项目地址：https://github.com/davidschreiber/FancyCoverFlow  
 Demo 地址：https://play.google.com/store/apps/details?id=at.technikum.mti.fancycoverflow.samples  
-效果图：![Renderings](https://github-camo.global.ssl.fastly.net/ef5ced52b7b54652b50499521ed797c0188c7a6b/687474703a2f2f64617669647363687265696265722e6769746875622e696f2f46616e6379436f766572466c6f772f73637265656e73686f74322e706e67)  
+效果图：![img](images/FancyCoverFlow.jpg)  
 
 1. AndroidTouchGallery  
 支持双击或双指缩放的 Gallery(用 ViewPager 实现)，相比下面的 PhotoView，在被放大后依然能滑到下一个 item，并且支持直接从 url 和文件中获取图片，  
