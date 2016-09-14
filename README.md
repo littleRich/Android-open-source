@@ -230,7 +230,9 @@ Demo 地址：[Download here](http://7u2jsw.com1.z0.glb.clouddn.com/githubCustom
 1. ScrollerCalendar  
 实现每行显示一年的 12 个月份的 RecyclerView 年历  
 项目地址：https://github.com/guanchao/ScrollerCalendar  
-效果图：![Renderings](https://raw.githubusercontent.com/guanchao/ScrollerCalendar/master/images/sample2.gif)  
+效果图：
+![Renderings](images/ScrollerCalendar1.gif)
+![Renderings](images/ScrollerCalendar2.gif)  
 
 1. ExtractWordView  
 一个可以提取单词的 ListView,支持"放大镜"效果。  
